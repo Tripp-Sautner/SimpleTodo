@@ -33,10 +33,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+The biggest challenge for me was troubleshooting throughout the project due to the inconsistent versions of the tutorial and my own version of andriod studio. The best part though was sending the app directly to my phone for testing instead of using the emulator besides when creating the walk through gif
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Robert J Sautner III]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
